@@ -1,0 +1,956 @@
+{
+	"data": {
+		"resumeCase": false,
+		"lineLevelPlans": {
+			"lines": [
+				{
+					"mtn": "8484330116",
+					"actionRequired": false,
+					"deviceInfo": {
+						"modelName": "edge+",
+						"deviceUrl": "https://ss7.vzw.com/is/image/VerizonWireless/motorola-moto-edge-plus-5g-smartphone-thunder-grey-motxt20611",
+						"deviceType": {
+							"device4G": false,
+							"device5GE": true,
+							"device5GA": false
+						},
+						"deviceCategory": {
+							"smartPhone": true,
+							"basicPhone": false,
+							"connectedDevice": false,
+							"internetDevice": false,
+							"laptop": false,
+							"connectedCar": false,
+							"tablet": false,
+							"hum": false,
+							"watch": false
+						},
+						"deviceSku": "MOTXT20611",
+						"capacity": "256 GB",
+						"colorInfo": {
+							"deviceColor": "Thunder Grey"
+						},
+						"productId": "dev13040071"
+					},
+					"mtnAttributes": {
+						"accountOwner": false,
+						"accountManager": false,
+						"currentSmartFamilyPrimaryParent": false,
+						"lineActivityType": "NSE",
+						"ultraWideBand5GPlan": true,
+						"selectedSmartFamilyPrimaryParent": false,
+						"bogoPromoLine": true,
+						"appleMusicEligible": false,
+						"disneyPlus": true
+					},
+					"selectedLLP": "50434",
+					"defaultDisplayCategory": "LINE",
+					"planIdInCart": "50434",
+					"products": [
+						{
+                            "productName": "PREPAY MONTHLY SMART PHONES",
+                            "productId": "plan2680002",
+                            "displaySequence": 1,
+                            "plans": [
+                                {
+                                    "planId": "28359",
+                                    "description": "$35-0MB-2020-VOICE-PLANppp",
+                                    "planFeatures": null,
+                                    "eligibleMtns": null,
+                                    "additionalPlanProducts": null,
+                                    "additionalPlanProductGroups": null,
+                                    "price": {
+                                        "regularPrice": 35.0,
+                                        "discountedPrice": 0.0,
+                                        "discountPromoTotal": 0.0,
+                                        "promos": []
+                                    },
+                                    "planDisplaySequence": null,
+                                    "showcase": true,
+                                    "isSelectedPlan": null,
+                                    "isDisabled": null,
+                                    "isRecommendedPlan": true
+                                },
+                                {
+                                    "planId": "28361",
+                                    "description": "$40-5GB-2020-VOICE-PLAN",
+                                    "planFeatures": null,
+                                    "eligibleMtns": null,
+                                    "additionalPlanProducts": null,
+                                    "additionalPlanProductGroups": null,
+                                    "price": {
+                                        "regularPrice": 40.0,
+                                        "discountedPrice": 0.0,
+                                        "discountPromoTotal": 0.0,
+                                        "promos": []
+                                    },
+                                    "planDisplaySequence": null,
+                                    "showcase": true,
+                                    "isSelectedPlan": null,
+                                    "isDisabled": null,
+                                    "isRecommendedPlan": false
+                                },
+                                {
+                                    "planId": "28363",
+                                    "description": "$50-15GB-2020-VOICE-PLAN",
+                                    "planFeatures": null,
+                                    "eligibleMtns": null,
+                                    "additionalPlanProducts": null,
+                                    "additionalPlanProductGroups": null,
+                                    "price": {
+                                        "regularPrice": 50.0,
+                                        "discountedPrice": 0.0,
+                                        "discountPromoTotal": 0.0,
+                                        "promos": []
+                                    },
+                                    "planDisplaySequence": null,
+                                    "showcase": true,
+                                    "isSelectedPlan": null,
+                                    "isDisabled": null,
+                                    "isRecommendedPlan": false
+                                },
+                                {
+                                    "planId": "28365",
+                                    "description": "$65-UNL-2020-VOICE-PLAN",
+                                    "planFeatures": null,
+                                    "eligibleMtns": null,
+                                    "additionalPlanProducts": null,
+                                    "additionalPlanProductGroups": null,
+                                    "price": {
+                                        "regularPrice": 65.0,
+                                        "discountedPrice": 0.0,
+                                        "discountPromoTotal": 0.0,
+                                        "promos": []
+                                    },
+                                    "planDisplaySequence": null,
+                                    "showcase": true,
+                                    "isSelectedPlan": null,
+                                    "isDisabled": null,
+                                    "isRecommendedPlan": false
+                                },
+                                {
+                                    "planId": "28368",
+                                    "description": "$75-UNL-2021-VOICE-PLAN",
+                                    "planFeatures": null,
+                                    "eligibleMtns": null,
+                                    "additionalPlanProducts": null,
+                                    "additionalPlanProductGroups": null,
+                                    "price": {
+                                        "regularPrice": 75.0,
+                                        "discountedPrice": 0.0,
+                                        "discountPromoTotal": 0.0,
+                                        "promos": []
+                                    },
+                                    "planDisplaySequence": null,
+                                    "showcase": true,
+                                    "isSelectedPlan": null,
+                                    "isDisabled": null,
+                                    "isRecommendedPlan": false
+                                }
+                            ],
+                            "showcase": true,
+                            "recommendedPlan": true,
+                            "selectedPlan": false,
+                            "isShowcase": true
+                        }
+					],
+					"lineDisplaySeqNum": 1,
+					"keepMyPlan": false,
+					"promoEligiblePlanKey": false,
+					"errorCode": "",
+					"lineLevelPlanChangeRestricted": false,
+					"welcomeUnlimitedPlansId": [
+						"58701"
+					],
+					"fujiPlanIds": [
+						"60272"
+					],
+					"featureMessages": [],
+					"selectedPromoType": "",
+					"currentPlanEligibleToAdd": false,
+					"showLineinRecommendation": false,
+					"planChangeAllowed": false,
+					"homeInternetPlan": false,
+					"promoEligibleLine": false,
+					"mixAndMatchPlan": false
+				},
+				{
+					"mtn": "8484330115",
+					"actionRequired": false,
+					"deviceInfo": {
+						"modelName": "Smartphones"
+					},
+					"mtnAttributes": {
+						"accountOwner": false,
+						"accountManager": false,
+						"currentSmartFamilyPrimaryParent": false,
+						"lineActivityType": "NSE",
+						"ultraWideBand5GPlan": true,
+						"selectedSmartFamilyPrimaryParent": false,
+						"bogoPromoLine": false,
+						"appleMusicEligible": false,
+						"disneyPlus": true
+					},
+					"selectedLLP": "50434",
+					"defaultDisplayCategory": "LINE",
+					"planIdInCart": "50434",
+					"products": [
+						{
+                            "productName": "PREPAY MONTHLY SMART PHONES",
+                            "productId": "plan2680002",
+                            "displaySequence": 1,
+                            "plans": [
+                                {
+                                    "planId": "28359",
+                                    "description": "$35-0MB-2020-VOICE-PLAN",
+                                    "planFeatures": null,
+                                    "eligibleMtns": null,
+                                    "additionalPlanProducts": null,
+                                    "additionalPlanProductGroups": null,
+                                    "price": {
+                                        "regularPrice": 35.0,
+                                        "discountedPrice": 0.0,
+                                        "discountPromoTotal": 0.0,
+                                        "promos": []
+                                    },
+                                    "planDisplaySequence": null,
+                                    "showcase": true,
+                                    "isSelectedPlan": null,
+                                    "isDisabled": null,
+                                    "isRecommendedPlan": true
+                                },
+                                {
+                                    "planId": "28361",
+                                    "description": "$40-5GB-2020-VOICE-PLAN",
+                                    "planFeatures": null,
+                                    "eligibleMtns": null,
+                                    "additionalPlanProducts": null,
+                                    "additionalPlanProductGroups": null,
+                                    "price": {
+                                        "regularPrice": 40.0,
+                                        "discountedPrice": 0.0,
+                                        "discountPromoTotal": 0.0,
+                                        "promos": []
+                                    },
+                                    "planDisplaySequence": null,
+                                    "showcase": true,
+                                    "isSelectedPlan": null,
+                                    "isDisabled": null,
+                                    "isRecommendedPlan": false
+                                },
+                                {
+                                    "planId": "28363",
+                                    "description": "$50-15GB-2020-VOICE-PLAN",
+                                    "planFeatures": null,
+                                    "eligibleMtns": null,
+                                    "additionalPlanProducts": null,
+                                    "additionalPlanProductGroups": null,
+                                    "price": {
+                                        "regularPrice": 50.0,
+                                        "discountedPrice": 0.0,
+                                        "discountPromoTotal": 0.0,
+                                        "promos": []
+                                    },
+                                    "planDisplaySequence": null,
+                                    "showcase": true,
+                                    "isSelectedPlan": null,
+                                    "isDisabled": null,
+                                    "isRecommendedPlan": false
+                                },
+                                {
+                                    "planId": "28365",
+                                    "description": "$65-UNL-2020-VOICE-PLAN",
+                                    "planFeatures": null,
+                                    "eligibleMtns": null,
+                                    "additionalPlanProducts": null,
+                                    "additionalPlanProductGroups": null,
+                                    "price": {
+                                        "regularPrice": 65.0,
+                                        "discountedPrice": 0.0,
+                                        "discountPromoTotal": 0.0,
+                                        "promos": []
+                                    },
+                                    "planDisplaySequence": null,
+                                    "showcase": true,
+                                    "isSelectedPlan": null,
+                                    "isDisabled": null,
+                                    "isRecommendedPlan": false
+                                },
+                                {
+                                    "planId": "28368",
+                                    "description": "$75-UNL-2021-VOICE-PLAN",
+                                    "planFeatures": null,
+                                    "eligibleMtns": null,
+                                    "additionalPlanProducts": null,
+                                    "additionalPlanProductGroups": null,
+                                    "price": {
+                                        "regularPrice": 75.0,
+                                        "discountedPrice": 0.0,
+                                        "discountPromoTotal": 0.0,
+                                        "promos": []
+                                    },
+                                    "planDisplaySequence": null,
+                                    "showcase": true,
+                                    "isSelectedPlan": null,
+                                    "isDisabled": null,
+                                    "isRecommendedPlan": false
+                                }
+                            ],
+                            "showcase": true,
+                            "recommendedPlan": true,
+                            "selectedPlan": false,
+                            "isShowcase": true
+                        }
+					],
+					"lineDisplaySeqNum": 2,
+					"keepMyPlan": false,
+					"promoEligiblePlanKey": false,
+					"errorCode": "",
+					"lineLevelPlanChangeRestricted": false,
+					"welcomeUnlimitedPlansId": [
+						"58701"
+					],
+					"fujiPlanIds": [
+						"60272"
+					],
+					"featureMessages": [],
+					"selectedPromoType": "",
+					"currentPlanEligibleToAdd": false,
+					"showLineinRecommendation": false,
+					"planChangeAllowed": false,
+					"homeInternetPlan": false,
+					"promoEligibleLine": false,
+					"mixAndMatchPlan": false
+				}
+			]
+		},
+		"accountLevelPlans": {
+			"products": [
+				{
+					"productName": "Nationwide Talk",
+					"productId": "plan160013",
+					"displaySequence": 0,
+					"plans": [
+						{
+							"planId": "90001",
+							"planFeatures": [],
+							"eligibleMtns": [
+								{
+									"mtn": "8484330115",
+									"featureId": 88004
+								},
+								{
+									"mtn": "8484330116",
+									"featureId": 88004
+								}
+							],
+							"additionalPlanProducts": [],
+							"additionalPlanProductGroups": [],
+							"promoBadgeMessages": [],
+							"anchorRequired": false,
+							"planDisplaySequence": 0,
+							"hasEligibleAutoPayDiscount": false,
+							"planSelectorView": false,
+							"welcomeUnlimitedPlan": false,
+							"showcase": true,
+							"isDisabled": false,
+							"isTrialPlan": false,
+							"isFiosPromoEligible": false,
+							"isSelectedPlan": false,
+							"isRecommendedPlan": false
+						},
+						{
+							"planId": "90032",
+							"planFeatures": [],
+							"eligibleMtns": [
+								{
+									"mtn": "8484330115",
+									"featureId": 88004
+								},
+								{
+									"mtn": "8484330116",
+									"featureId": 88004
+								}
+							],
+							"additionalPlanProducts": [],
+							"additionalPlanProductGroups": [],
+							"promoBadgeMessages": [],
+							"anchorRequired": false,
+							"planDisplaySequence": 0,
+							"hasEligibleAutoPayDiscount": false,
+							"planSelectorView": false,
+							"welcomeUnlimitedPlan": false,
+							"showcase": true,
+							"isDisabled": false,
+							"isTrialPlan": false,
+							"isFiosPromoEligible": false,
+							"isSelectedPlan": false,
+							"isRecommendedPlan": false
+						},
+						{
+							"planId": "90002",
+							"planFeatures": [],
+							"eligibleMtns": [
+								{
+									"mtn": "8484330115",
+									"featureId": 88004
+								},
+								{
+									"mtn": "8484330116",
+									"featureId": 88004
+								}
+							],
+							"additionalPlanProducts": [],
+							"additionalPlanProductGroups": [],
+							"promoBadgeMessages": [],
+							"anchorRequired": false,
+							"planDisplaySequence": 0,
+							"hasEligibleAutoPayDiscount": false,
+							"planSelectorView": false,
+							"welcomeUnlimitedPlan": false,
+							"showcase": true,
+							"isDisabled": false,
+							"isTrialPlan": false,
+							"isFiosPromoEligible": false,
+							"isSelectedPlan": false,
+							"isRecommendedPlan": false
+						},
+						{
+							"planId": "90005",
+							"planFeatures": [],
+							"eligibleMtns": [
+								{
+									"mtn": "8484330115",
+									"featureId": 88004
+								},
+								{
+									"mtn": "8484330116",
+									"featureId": 88004
+								}
+							],
+							"additionalPlanProducts": [],
+							"additionalPlanProductGroups": [],
+							"promoBadgeMessages": [],
+							"anchorRequired": false,
+							"planDisplaySequence": 0,
+							"hasEligibleAutoPayDiscount": false,
+							"planSelectorView": false,
+							"welcomeUnlimitedPlan": false,
+							"showcase": true,
+							"isDisabled": false,
+							"isTrialPlan": false,
+							"isFiosPromoEligible": false,
+							"isSelectedPlan": false,
+							"isRecommendedPlan": false
+						}
+					],
+					"planSelectorProduct": false,
+					"isShowcase": false
+				},
+				{
+					"productName": "Nationwide Talk & Text",
+					"productId": "plan160012",
+					"displaySequence": 0,
+					"plans": [
+						{
+							"planId": "90033",
+							"planFeatures": [],
+							"eligibleMtns": [
+								{
+									"mtn": "8484330115",
+									"featureId": 76127
+								},
+								{
+									"mtn": "8484330116",
+									"featureId": 76127
+								}
+							],
+							"additionalPlanProducts": [],
+							"additionalPlanProductGroups": [],
+							"promoBadgeMessages": [],
+							"anchorRequired": false,
+							"planDisplaySequence": 0,
+							"hasEligibleAutoPayDiscount": false,
+							"planSelectorView": false,
+							"welcomeUnlimitedPlan": false,
+							"showcase": true,
+							"isDisabled": false,
+							"isTrialPlan": false,
+							"isFiosPromoEligible": false,
+							"isSelectedPlan": false,
+							"isRecommendedPlan": false
+						},
+						{
+							"planId": "90003",
+							"planFeatures": [],
+							"eligibleMtns": [
+								{
+									"mtn": "8484330115",
+									"featureId": 76128
+								},
+								{
+									"mtn": "8484330116",
+									"featureId": 76128
+								}
+							],
+							"additionalPlanProducts": [],
+							"additionalPlanProductGroups": [],
+							"promoBadgeMessages": [],
+							"anchorRequired": false,
+							"planDisplaySequence": 0,
+							"hasEligibleAutoPayDiscount": false,
+							"planSelectorView": false,
+							"welcomeUnlimitedPlan": false,
+							"showcase": true,
+							"isDisabled": false,
+							"isTrialPlan": false,
+							"isFiosPromoEligible": false,
+							"isSelectedPlan": false,
+							"isRecommendedPlan": false
+						},
+						{
+							"planId": "90004",
+							"planFeatures": [],
+							"eligibleMtns": [
+								{
+									"mtn": "8484330115",
+									"featureId": 76128
+								},
+								{
+									"mtn": "8484330116",
+									"featureId": 76128
+								}
+							],
+							"additionalPlanProducts": [],
+							"additionalPlanProductGroups": [],
+							"promoBadgeMessages": [],
+							"anchorRequired": false,
+							"planDisplaySequence": 0,
+							"hasEligibleAutoPayDiscount": false,
+							"planSelectorView": false,
+							"welcomeUnlimitedPlan": false,
+							"showcase": true,
+							"isDisabled": false,
+							"isTrialPlan": false,
+							"isFiosPromoEligible": false,
+							"isSelectedPlan": false,
+							"isRecommendedPlan": false
+						},
+						{
+							"planId": "90006",
+							"planFeatures": [],
+							"eligibleMtns": [
+								{
+									"mtn": "8484330115",
+									"featureId": 76128
+								},
+								{
+									"mtn": "8484330116",
+									"featureId": 76128
+								}
+							],
+							"additionalPlanProducts": [],
+							"additionalPlanProductGroups": [],
+							"promoBadgeMessages": [],
+							"anchorRequired": false,
+							"planDisplaySequence": 0,
+							"hasEligibleAutoPayDiscount": false,
+							"planSelectorView": false,
+							"welcomeUnlimitedPlan": false,
+							"showcase": true,
+							"isDisabled": false,
+							"isTrialPlan": false,
+							"isFiosPromoEligible": false,
+							"isSelectedPlan": false,
+							"isRecommendedPlan": false
+						}
+					],
+					"planSelectorProduct": false,
+					"isShowcase": false
+				}
+			]
+		},
+		"planReferenceDataList": [
+			{
+                "planId": 28363,
+                "groupId": "plan2680002",
+                "description": "$50-15GB-2020-VOICE-PLANsssss",
+                "displayName": "$50 Smartphone Plan",
+                "overview": null,
+                "disclaimer": null,
+                "planTier": null,
+                "image": "PP_50_15gb_0420",
+                "displaySeqNum": null,
+                "featureText": "Included features: <ul><li>$50 Unlimited Talk to U.S.</li><li>Unlimited Text to U.S. and International</li><li>15 GB of High Speed data (Incl. Always&ndash;On Data) </li></ul>",
+                "allowance": null,
+                "accessCharge": null,
+                "promos": null,
+                "planAttributes": {
+                    "sharePlan": false,
+                    "variableLineCostPlan": false,
+                    "variablePlanCostPlan": false,
+                    "connectedDevicePlan": false,
+                    "ultraWideBand5GPlan": false,
+                    "safetyModeEligible": false,
+                    "showcase": true,
+                    "restricted": false,
+                    "backupPlan": false,
+                    "promoGifterPlan": false,
+                    "promoGifteePlan": false,
+                    "eligibleForParentLine": true,
+                    "requiresParentLine": false,
+                    "disneyPlusEligible": false,
+                    "appleMusicEligible": false,
+                    "connectedCar": false
+                },
+                "planProducts": [
+                    "300005",
+                    "600006",
+                    "600007",
+                    "600008",
+                    "600009",
+                    "6400002",
+                    "6400001",
+                    "700009",
+                    "100002",
+                    "600010",
+                    "600011",
+                    "600001",
+                    "600012",
+                    "300001",
+                    "600013",
+                    "300002",
+                    "600003",
+                    "600014",
+                    "600004",
+                    "600005"
+                ],
+                "planProductGroups": null,
+                "productName": "PREPAY MONTHLY SMART PHONES",
+                "displayIcon": null,
+                "imageURL": {
+                    "default": "https://ss7.vzw.com/is/image/VerizonWireless/PP_50_15gb_0420"
+                }
+            },
+            {
+                "planId": 28361,
+                "groupId": "plan2680002",
+                "description": "$40-5GB-2020-VOICE-PLAN",
+                "displayName": "$40 Smartphone Plan",
+                "overview": null,
+                "disclaimer": null,
+                "planTier": null,
+                "image": "PP_40_5gb_0420",
+                "displaySeqNum": null,
+                "featureText": "Included features: <ul><li>$40 Unlimited Talk to U.S.</li><li>Unlimited Text to U.S. and International</li><li>5 GB of High Speed data (Incl. Always&ndash;On Data) </li></ul>",
+                "allowance": null,
+                "accessCharge": null,
+                "promos": null,
+                "planAttributes": {
+                    "sharePlan": false,
+                    "variableLineCostPlan": false,
+                    "variablePlanCostPlan": false,
+                    "connectedDevicePlan": false,
+                    "ultraWideBand5GPlan": false,
+                    "safetyModeEligible": false,
+                    "showcase": true,
+                    "restricted": false,
+                    "backupPlan": false,
+                    "promoGifterPlan": false,
+                    "promoGifteePlan": false,
+                    "eligibleForParentLine": true,
+                    "requiresParentLine": false,
+                    "disneyPlusEligible": false,
+                    "appleMusicEligible": false,
+                    "connectedCar": false
+                },
+                "planProducts": [
+                    "300005",
+                    "600006",
+                    "600007",
+                    "600008",
+                    "600009",
+                    "6400002",
+                    "6400001",
+                    "700009",
+                    "100002",
+                    "600010",
+                    "600011",
+                    "600001",
+                    "600012",
+                    "300001",
+                    "600013",
+                    "300002",
+                    "600003",
+                    "600014",
+                    "600004",
+                    "600005"
+                ],
+                "planProductGroups": null,
+                "productName": "PREPAY MONTHLY SMART PHONES",
+                "displayIcon": null,
+                "imageURL": {
+                    "default": "https://ss7.vzw.com/is/image/VerizonWireless/PP_40_5gb_0420"
+                }
+            },
+            {
+                "planId": 28368,
+                "groupId": "plan2680002",
+                "description": "$75-UNL-2021-VOICE-PLAN",
+                "displayName": "$75 Smartphone Plan",
+                "overview": null,
+                "disclaimer": null,
+                "planTier": null,
+                "image": "Unlimited_Plus_0920",
+                "displaySeqNum": null,
+                "featureText": "Included features: <ul><li>Unlimited 4G/5G Nationwide Voice/Text/Data</li><li>Unlimited 5G Ultra Wideband access</li><li>Unlimited MHS; 600kbps after 10GB (4GLTE/5G Nationwide)</li><li>Unlimited Talk/Text to Mexico & Canada</li><li>Unlimited international roaming in Mexico Canada, Puerto Rico, U.S. Virgin Islands</li></ul>",
+                "allowance": null,
+                "accessCharge": null,
+                "promos": null,
+                "planAttributes": {
+                    "sharePlan": false,
+                    "variableLineCostPlan": false,
+                    "variablePlanCostPlan": false,
+                    "connectedDevicePlan": false,
+                    "ultraWideBand5GPlan": false,
+                    "safetyModeEligible": false,
+                    "showcase": true,
+                    "restricted": false,
+                    "backupPlan": false,
+                    "promoGifterPlan": false,
+                    "promoGifteePlan": false,
+                    "eligibleForParentLine": true,
+                    "requiresParentLine": false,
+                    "disneyPlusEligible": false,
+                    "appleMusicEligible": false,
+                    "connectedCar": false
+                },
+                "planProducts": [
+                    "300005",
+                    "600006",
+                    "600007",
+                    "600008",
+                    "600009",
+                    "6400002",
+                    "6400001",
+                    "700009",
+                    "100002",
+                    "600010",
+                    "600011",
+                    "600001",
+                    "600012",
+                    "300001",
+                    "600013",
+                    "300002",
+                    "600003",
+                    "600014",
+                    "600004",
+                    "600005"
+                ],
+                "planProductGroups": null,
+                "productName": "PREPAY MONTHLY SMART PHONES",
+                "displayIcon": null,
+                "imageURL": {
+                    "default": "https://ss7.vzw.com/is/image/VerizonWireless/Unlimited_Plus_0920"
+                }
+            },
+            {
+                "planId": 28365,
+                "groupId": "plan2680002",
+                "description": "$65-UNL-2020-VOICE-PLAN",
+                "displayName": "$65 Smartphone Plan",
+                "overview": null,
+                "disclaimer": null,
+                "planTier": null,
+                "image": "PP_65_unlimited_0420",
+                "displaySeqNum": null,
+                "featureText": "Included features: <ul><li>$65 Unlimited Talk to U.S.</li><li>Unlimited Text to U.S. and International</li><li>Unlimited High Speed data</li></ul>",
+                "allowance": null,
+                "accessCharge": null,
+                "promos": null,
+                "planAttributes": {
+                    "sharePlan": false,
+                    "variableLineCostPlan": false,
+                    "variablePlanCostPlan": false,
+                    "connectedDevicePlan": false,
+                    "ultraWideBand5GPlan": false,
+                    "safetyModeEligible": false,
+                    "showcase": true,
+                    "restricted": false,
+                    "backupPlan": false,
+                    "promoGifterPlan": false,
+                    "promoGifteePlan": false,
+                    "eligibleForParentLine": true,
+                    "requiresParentLine": false,
+                    "disneyPlusEligible": false,
+                    "appleMusicEligible": false,
+                    "connectedCar": false
+                },
+                "planProducts": [
+                    "300005",
+                    "600006",
+                    "600007",
+                    "600008",
+                    "600009",
+                    "6400002",
+                    "6400001",
+                    "700009",
+                    "100002",
+                    "600010",
+                    "600011",
+                    "600001",
+                    "600012",
+                    "300001",
+                    "600013",
+                    "300002",
+                    "600003",
+                    "600014",
+                    "600004",
+                    "600005"
+                ],
+                "planProductGroups": null,
+                "productName": "PREPAY MONTHLY SMART PHONES",
+                "displayIcon": null,
+                "imageURL": {
+                    "default": "https://ss7.vzw.com/is/image/VerizonWireless/PP_65_unlimited_0420"
+                }
+            },
+            {
+                "planId": 28359,
+                "groupId": "plan2680002",
+                "description": "$35-0MB-2020-VOICE-PLAN",
+                "displayName": "$35 Smartphone Plan",
+                "overview": null,
+                "disclaimer": null,
+                "planTier": null,
+                "image": "PP_35_128kbps_0420",
+                "displaySeqNum": null,
+                "featureText": "Included features: <ul><li>$35 Unlimited Talk to U.S.</li><li>Unlimited Text to U.S. and International</li><li>Unlimited low speed data (2G)</li></ul>",
+                "allowance": null,
+                "accessCharge": null,
+                "promos": null,
+                "planAttributes": {
+                    "sharePlan": false,
+                    "variableLineCostPlan": false,
+                    "variablePlanCostPlan": false,
+                    "connectedDevicePlan": false,
+                    "ultraWideBand5GPlan": false,
+                    "safetyModeEligible": false,
+                    "showcase": true,
+                    "restricted": false,
+                    "backupPlan": false,
+                    "promoGifterPlan": false,
+                    "promoGifteePlan": false,
+                    "eligibleForParentLine": true,
+                    "requiresParentLine": false,
+                    "disneyPlusEligible": false,
+                    "appleMusicEligible": false,
+                    "connectedCar": false
+                },
+                "planProducts": [
+                    "300005",
+                    "600006",
+                    "600007",
+                    "600008",
+                    "600009",
+                    "6400002",
+                    "6400001",
+                    "700009",
+                    "100002",
+                    "600010",
+                    "600011",
+                    "600001",
+                    "600012",
+                    "300001",
+                    "600013",
+                    "300002",
+                    "600003",
+                    "600014",
+                    "600004",
+                    "600005"
+                ],
+                "planProductGroups": null,
+                "productName": "PREPAY MONTHLY SMART PHONES",
+                "displayIcon": null,
+                "imageURL": {
+                    "default": "https://ss7.vzw.com/is/image/VerizonWireless/PP_35_128kbps_0420"
+                }
+            }
+		],
+		"nafReferenceDataList": [
+			{
+				"nafId": 76127,
+				"description": "LINE ACCESS W/TEXT $49.99 0811",
+				"nafType": "SFO"
+			},
+			{
+				"nafId": 76128,
+				"description": "LINE ACCESS W/TEXT $9.99 0711",
+				"nafType": "SFO"
+			},
+			{
+				"nafId": 88004,
+				"description": "LINE ACCESS $9.99 0711",
+				"nafType": "SFO"
+			}
+		],
+		"planCost": {
+			"currentPlanCost": {
+				"total": 0.0,
+				"accountLevel": {
+					"discountTotal": 0.0
+				},
+				"lineLevel": [],
+				"discountPromoTotal": 0.0
+			},
+			"recommendedPlanCost": 180.0
+		},
+		"imagePath": "https://ss7.vzw.com/is/image/VerizonWireless/",
+		"accountInfo": {
+			"eligibleGrantorLine": [],
+			"bogoPromoAccount": true,
+			"autoPayEligible": false,
+			"autoPayEnrolled": false,
+			"autoPayReflected": false,
+			"autoPayPaperless": false,
+			"mixAndMatch": false,
+			"welcomeUnlimited": false,
+			"oneUnlimited": false
+		},
+		"commonData": {
+			"mppPlanBannerKey": "DISCOUNT_ELIGIBLE_BANNER"
+		},
+		"hybridPlan": false,
+		"mixMatchPlan": false,
+		"recommended": false,
+		"hasLegacyPlan": false,
+		"hasOnlySharePlans": false,
+		"hasShareAndLineLevelPlans": false,
+		"existingALPlan": {},
+		"discountPromoTotal": 0.0,
+		"spokeJourney": false,
+		"customerTypeME": false,
+		"tabletUpsellingEligible": true,
+		"ecpdId": "",
+		"keepMyPlan": false,
+		"title": {},
+		"sharePlanChangeRestricted": false,
+		"accountInfoAttributes": {
+			"sharePlanAllowed": true,
+			"fiosEligibleByZip": true
+		},
+		"redemptionCode": false,
+		"displayKeepPlan": false,
+		"moreSharePlanEnabled": false,
+		"fiosAuthenticated": false,
+		"military": false,
+		"customerTypePE": false,
+		"accountAutoPayDiscountEligibility": false,
+		"planChangeAllowed": true,
+		"oneUnlimited": true,
+		"capriPlansEnabled": false,
+		"mixandMatch2": false,
+		"mixandMatch3": false,
+		"mixandMatch4": true
+	}
+}
